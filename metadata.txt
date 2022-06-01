@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Delimitedtext Pathfixer
+qgisMinimumVersion=3.22
+description=This plugins fixes paths from text/ csv datasources that have not been correctly upgraded
+version=0.1
+author=Marco Lechner, RN1, Bundesamt für Strahlenschutz
+email=mlechner@bfs.de
+
+about=This plugins fixes paths from text/csv datasources that have not been correctly upgraded. See https://github.com/qgis/QGIS/issues/48587 for more details about the bug.
+
+tracker=https://github.com/OpenBfS/bfs_delimitedtext_pathfixer/issues
+repository=https://github.com/OpenBfS/bfs_delimitedtext_pathfixer
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=https://github.com/OpenBfS/bfs_delimitedtext_pathfixer
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+

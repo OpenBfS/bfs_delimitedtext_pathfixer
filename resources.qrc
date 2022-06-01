@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/delimitedtext_pathfixer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
