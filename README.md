@@ -1,4 +1,4 @@
-Delimitedtext Pathfixer Plugin
+# Delimitedtext Pathfixer Plugin
 
 This experimental Plugin is a QuickFix for Issue "CSV datasource not converted from 3.16 to 3.22 correctly - projects not usable anymore" (https://github.com/qgis/QGIS/issues/48587).
 
@@ -20,12 +20,13 @@ Feel free to fork this Repo and generate any PR on Github.
 
 ## Contact
 
-Dr. Marco Lechner
-Bundesamt für Strahlenschutz │ Federal Office for Radiation Protection
-Koordination Notfallschutzsysteme │ Coordination Emergency Systems │ RN 1
-mlechner@bfs.de
+Dr. Marco Lechner\
+mlechner@bfs.de\
+Bundesamt für Strahlenschutz │ Federal Office for Radiation Protection\
+Koordination Notfallschutzsysteme │ Coordination Emergency Systems │ RN 1\
 
-Willy-Brandt-Strasse 5
-38226 Salzgitter
-info@bfs.de
-www.bfs.de
+
+Willy-Brandt-Strasse 5\
+38226 Salzgitter\
+info@bfs.de\
+https://www.bfs.de
