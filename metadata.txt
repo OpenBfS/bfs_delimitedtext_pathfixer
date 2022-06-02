@@ -6,7 +6,7 @@
 name=Delimitedtext Pathfixer
 qgisMinimumVersion=3.22
 description=This plugins fixes paths from text/ csv datasources that have not been correctly upgraded
-version=0.2
+version=0.3-SNAPSHOT
 author=Marco Lechner, RN1, Bundesamt für Strahlenschutz
 email=mlechner@bfs.de
 
